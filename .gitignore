@@ -5,6 +5,11 @@ s_crop_metadata.npy
 # Generated output images from SiO2 density map notebook
 SiO2_density_map_*.png
 diffraction_pattern_*.jpg
+HAADF_Line_profile_*.png
+
+# Generic density/line profile patterns (future-proof)
+*density_map_*_fig*.png
+*Line_profile_*_fig*.png
 
 # Other potential large data files
 *.h5
